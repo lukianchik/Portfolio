@@ -1,1 +1,1 @@
-Collection of projects and AB tests for CV
+Collection of projects
